@@ -7,6 +7,10 @@ Escolha a operação desejada
 
 pronto
 
-quando quiser sair, basta escolher a operação 5
+quando quiser sair, basta escolher a operação 5.
 
-#-------------------------------------------------------------------
+__________________________________________________
+
+## Como executar 
+
+
